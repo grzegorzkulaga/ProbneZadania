@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Stozek\Stozek\bin\Debug\Stozek.exe.config
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Stozek\Stozek\bin\Debug\Stozek.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Stozek\Stozek\bin\Debug\Stozek.pdb
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Stozek\Stozek\obj\Debug\Stozek.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Stozek\Stozek\obj\Debug\Stozek.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Stozek\Stozek\obj\Debug\Stozek.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Stozek\Stozek\obj\Debug\Stozek.pdb
