@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\OstroslupPrawidlowyTrojkatny\OstroslupPrawidlowyTrojkatny\bin\Debug\OstroslupPrawidlowyTrojkatny.exe.config
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\OstroslupPrawidlowyTrojkatny\OstroslupPrawidlowyTrojkatny\bin\Debug\OstroslupPrawidlowyTrojkatny.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\OstroslupPrawidlowyTrojkatny\OstroslupPrawidlowyTrojkatny\bin\Debug\OstroslupPrawidlowyTrojkatny.pdb
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\OstroslupPrawidlowyTrojkatny\OstroslupPrawidlowyTrojkatny\obj\Debug\OstroslupPrawidlowyTrojkatny.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\OstroslupPrawidlowyTrojkatny\OstroslupPrawidlowyTrojkatny\obj\Debug\OstroslupPrawidlowyTrojkatny.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\OstroslupPrawidlowyTrojkatny\OstroslupPrawidlowyTrojkatny\obj\Debug\OstroslupPrawidlowyTrojkatny.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\OstroslupPrawidlowyTrojkatny\OstroslupPrawidlowyTrojkatny\obj\Debug\OstroslupPrawidlowyTrojkatny.pdb
