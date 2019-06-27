@@ -27,6 +27,10 @@ namespace OstroslupPrawidlowyTrojkatny
                 Console.WriteLine("Pole boczne wynosi: " + Math.Round(PoleBoczne(podstawa, H)));
                 Console.WriteLine("Pole całkowite wynosi: " + Math.Round(PoleCalkowite));
             }
+            else
+            {
+                Console.WriteLine("Wartości muszą być dodatnie!");
+            }
         }
 
         public static double PolePodstawy(double a)
