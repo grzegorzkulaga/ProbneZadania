@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2d\Tablica2d\bin\Debug\Tablica2d.exe.config
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2d\Tablica2d\bin\Debug\Tablica2d.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2d\Tablica2d\bin\Debug\Tablica2d.pdb
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2d\Tablica2d\obj\Debug\Tablica2d.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2d\Tablica2d\obj\Debug\Tablica2d.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2d\Tablica2d\obj\Debug\Tablica2d.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2d\Tablica2d\obj\Debug\Tablica2d.pdb
