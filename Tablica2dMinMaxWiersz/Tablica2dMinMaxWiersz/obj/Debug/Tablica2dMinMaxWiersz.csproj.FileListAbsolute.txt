@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxWiersz\Tablica2dMinMaxWiersz\bin\Debug\Tablica2dMinMaxWiersz.exe.config
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxWiersz\Tablica2dMinMaxWiersz\bin\Debug\Tablica2dMinMaxWiersz.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxWiersz\Tablica2dMinMaxWiersz\bin\Debug\Tablica2dMinMaxWiersz.pdb
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxWiersz\Tablica2dMinMaxWiersz\obj\Debug\Tablica2dMinMaxWiersz.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxWiersz\Tablica2dMinMaxWiersz\obj\Debug\Tablica2dMinMaxWiersz.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxWiersz\Tablica2dMinMaxWiersz\obj\Debug\Tablica2dMinMaxWiersz.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxWiersz\Tablica2dMinMaxWiersz\obj\Debug\Tablica2dMinMaxWiersz.pdb
