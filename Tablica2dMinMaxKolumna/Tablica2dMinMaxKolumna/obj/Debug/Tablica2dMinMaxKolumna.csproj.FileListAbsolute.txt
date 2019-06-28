@@ -1,0 +1,7 @@
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxKolumna\Tablica2dMinMaxKolumna\bin\Debug\Tablica2dMinMaxKolumna.exe.config
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxKolumna\Tablica2dMinMaxKolumna\bin\Debug\Tablica2dMinMaxKolumna.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxKolumna\Tablica2dMinMaxKolumna\bin\Debug\Tablica2dMinMaxKolumna.pdb
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxKolumna\Tablica2dMinMaxKolumna\obj\Debug\Tablica2dMinMaxKolumna.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxKolumna\Tablica2dMinMaxKolumna\obj\Debug\Tablica2dMinMaxKolumna.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxKolumna\Tablica2dMinMaxKolumna\obj\Debug\Tablica2dMinMaxKolumna.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\Tablica2dMinMaxKolumna\Tablica2dMinMaxKolumna\obj\Debug\Tablica2dMinMaxKolumna.pdb
