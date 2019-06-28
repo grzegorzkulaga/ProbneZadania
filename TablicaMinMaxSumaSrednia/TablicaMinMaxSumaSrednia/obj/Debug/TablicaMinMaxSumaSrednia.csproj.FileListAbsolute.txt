@@ -1,0 +1,6 @@
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\TablicaMinMaxSumaSrednia\TablicaMinMaxSumaSrednia\bin\Debug\TablicaMinMaxSumaSrednia.exe.config
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\TablicaMinMaxSumaSrednia\TablicaMinMaxSumaSrednia\bin\Debug\TablicaMinMaxSumaSrednia.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\TablicaMinMaxSumaSrednia\TablicaMinMaxSumaSrednia\bin\Debug\TablicaMinMaxSumaSrednia.pdb
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\TablicaMinMaxSumaSrednia\TablicaMinMaxSumaSrednia\obj\Debug\TablicaMinMaxSumaSrednia.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\TablicaMinMaxSumaSrednia\TablicaMinMaxSumaSrednia\obj\Debug\TablicaMinMaxSumaSrednia.exe
+C:\Users\GregoreK\Documents\GitHub\ProbneZadania\TablicaMinMaxSumaSrednia\TablicaMinMaxSumaSrednia\obj\Debug\TablicaMinMaxSumaSrednia.pdb
