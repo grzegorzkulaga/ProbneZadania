@@ -23,9 +23,13 @@ namespace OstroslupPrawidlowyTrojkatny
                 double PoleCalkowite;
                 PoleCalkowite = PolePodstawy(podstawa) + PoleBoczne(podstawa, H);
 
-                Console.WriteLine("Pole podstawy wynosi: " + Math.Round(PolePodstawy(podstawa)));
-                Console.WriteLine("Pole boczne wynosi: " + Math.Round(PoleBoczne(podstawa, H)));
-                Console.WriteLine("Pole całkowite wynosi: " + Math.Round(PoleCalkowite));
+                if (PoleBoczne(podstawa, H) > 0)
+                {
+                    Console.WriteLine("Pole podstawy wynosi: " + Math.Round(PolePodstawy(podstawa)));
+                    Console.WriteLine("Pole boczne wynosi: " + Math.Round(PoleBoczne(podstawa, H)));
+                    Console.WriteLine("Pole całkowite wynosi: " + Math.Round(PoleCalkowite));
+                    Console.WriteLine("Objetość wynosi: " + Math.Round(Objetosc(PolePodstawy(podstawa), H)));
+                }
             }
             else
             {
@@ -44,14 +48,27 @@ namespace OstroslupPrawidlowyTrojkatny
         public static double PoleBoczne(double a, double wysokosc)
         {
             //dzielimy trojkat podstawy na 1/3 i 2/3
-            double b = (1 / 3) * a;
-            double c = Math.Pow(a,2) + Math.Pow(b, 2);
+            double b = a / 3;
+            double c = Math.Pow(b,2) + Math.Pow(wysokosc, 2);
             double ScianaBocznaWysokosc = Math.Sqrt(c);
+            double wynik;
+            if (Math.Pow(ScianaBocznaWysokosc, 2) == c)
+            {
+                double Pb = (a * ScianaBocznaWysokosc) / 2;
+                return wynik = Pb * 3;
+            }
+            else
+            {
+                return -1;
+            }            
+        }
 
-            double Pb = (a * ScianaBocznaWysokosc) / 2;
-            double wynik = Pb / 3;
+        public static double Objetosc(double PP, double H)
+        {
+            double V;
 
-            return wynik;
+            V = (PP * H)/3;
+            return V;
         }
     }
 }
