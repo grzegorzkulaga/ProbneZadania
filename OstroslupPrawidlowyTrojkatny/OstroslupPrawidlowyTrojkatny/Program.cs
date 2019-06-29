@@ -30,6 +30,10 @@ namespace OstroslupPrawidlowyTrojkatny
                     Console.WriteLine("Pole całkowite wynosi: " + Math.Round(PoleCalkowite));
                     Console.WriteLine("Objetość wynosi: " + Math.Round(Objetosc(PolePodstawy(podstawa), H)));
                 }
+                else
+                {
+                    Console.WriteLine("Nie został spełniony warunek na powstanie trójkąta");
+                }
             }
             else
             {
